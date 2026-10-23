@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+modul_11_zad_1/
